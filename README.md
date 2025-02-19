@@ -17,5 +17,4 @@ Whether you're just starting out or looking to improve your skills, these projec
 
 ---
 
-![JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/thedat-nguyen/javascript-algorithms-and-data-structures)
-
+![Chứng chỉ JavaScript Algorithms and Data Structures](./assets/js.png)
