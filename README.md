@@ -16,3 +16,6 @@ Feel free to explore and refer to these projects for learning purposes. The solu
 Whether you're just starting out or looking to improve your skills, these projects can serve as valuable resources to deepen your understanding of algorithms and data structures.
 
 ---
+
+![JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/thedat-nguyen/javascript-algorithms-and-data-structures)
+
